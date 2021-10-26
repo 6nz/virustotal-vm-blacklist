@@ -1,2 +1,3 @@
 Microsoft Remote Display Adapter
 Microsoft Hyper-V Video
+Microsoft Basic Display Adapter
