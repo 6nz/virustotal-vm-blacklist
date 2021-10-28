@@ -2,3 +2,4 @@ Windows-XP-5.1.2600-SP2
 b'Microsoft Windows Server 2022 Standard Evaluation'
 Microsoft Windows Server 2022 Standard Evaluation
 'Microsoft Windows Server 2022 Standard Evaluation'
+Windows-XP-5.1.2600-SP1
