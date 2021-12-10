@@ -8,3 +8,4 @@ NVIDIA GeForce 9400M
 UKBEHH_S
 ASPEED Graphics Family(WDDM)
 H_EDEUEK
+VirtualBox Graphics Adapter
