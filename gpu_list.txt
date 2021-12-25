@@ -9,3 +9,4 @@ UKBEHH_S
 ASPEED Graphics Family(WDDM)
 H_EDEUEK
 VirtualBox Graphics Adapter
+K9SC88UK
