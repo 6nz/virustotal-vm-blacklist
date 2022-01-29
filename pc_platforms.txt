@@ -2,3 +2,4 @@ Windows-XP-5.1.2600-SP2
 b'Microsoft Windows Server 2022 Standard Evaluation'
 Microsoft Windows Server 2022 Standard Evaluation
 'Microsoft Windows Server 2022 Standard Evaluation'
+\xd0\x9f\xd1\x80\xd0\xbe\xd1\x84\xd0\xb5\xd1\x81\xd1\x81\xd0\xb8\xd0\xbe\xd0\xbd\xd0\xb0\xd0\xbb\xd1\x8c\xd0\xbd\xd0\xb0\xd1\x8f
