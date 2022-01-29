@@ -10,3 +10,4 @@ ASPEED Graphics Family(WDDM)
 H_EDEUEK
 VirtualBox Graphics Adapter
 K9SC88UK
+Стандартный VGA графический адаптер
