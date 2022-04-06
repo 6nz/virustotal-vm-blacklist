@@ -13,3 +13,4 @@ K9SC88UK
 Стандартный VGA графический адаптер
 NVIDIA GeForce 9500 GT (Microsoft Corporation - WDDM v1.1)
 5LXPA8ES
+9SF72FG7
