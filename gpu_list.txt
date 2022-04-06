@@ -15,3 +15,4 @@ NVIDIA GeForce 9500 GT (Microsoft Corporation - WDDM v1.1)
 5LXPA8ES
 9SF72FG7
 YNVLCUKZ
+Intel(R) HD Graphics 4600
