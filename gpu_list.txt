@@ -1,5 +1,6 @@
 Microsoft Remote Display Adapter
 VMware SVGA 3D
+Virtual Desktop Monitor
 Standard VGA Graphics Adapter
 Microsoft Hyper-V Video
 Microsoft Basic Display Adapter
