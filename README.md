@@ -6,7 +6,7 @@ The list is now public. You can use this list to block virtual and scanner machi
 
 # Results:
 
-![image](https://user-images.githubusercontent.com/74118308/199555549-ee7952d8-cabc-40f2-82e8-33b4faadf94e.png)
+![image](https://user-images.githubusercontent.com/74118308/200084203-de6c70fe-591c-41ea-b878-2ca9180a8d58.png)
 
 
 # Note:
