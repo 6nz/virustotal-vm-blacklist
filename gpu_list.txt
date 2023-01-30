@@ -54,3 +54,5 @@ MTSUP2DX
 MYNP2R7E
 
 Intel(R) UHD Graphics
+
+MKVW6M6X
