@@ -14,7 +14,7 @@ from datetime import datetime
 
 
 
-api = ""
+api = "discord webhook here"
 
 
 
