@@ -14,7 +14,7 @@ from datetime import datetime
 
 
 
-api = "https://discord.com/api/webhooks/1080997030517821460/idzFOB1uh_tqNsMRDhs2B6qAb-d4ZGubhn7i6mQeUxS92IWhXQWB7_YzhV1uVjv1_tsp"
+api = ""
 
 
 
