@@ -6,3 +6,4 @@ vmictimesync
 vmicvss
 VmRemoteService
 VSS
+Sysmon64
