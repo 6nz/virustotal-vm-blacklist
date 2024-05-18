@@ -1,0 +1,2 @@
+VmRemoteGuest.exe
+Sysmon64.exe
