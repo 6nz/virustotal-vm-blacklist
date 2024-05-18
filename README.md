@@ -14,8 +14,9 @@
 * IP
 * MAC
 * GPU
-* Process List
- 
+* Processes List
+* Services List
+
 Made this for my Python virus.
 The list is now public. You can use this list to block virtual and scanner machines to fully run your program. Very useful if you want to make ur program a bit more UD.
 
