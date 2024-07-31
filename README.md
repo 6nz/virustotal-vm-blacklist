@@ -28,6 +28,6 @@ The list is now public. You can use this list to block virtual and scanner machi
 # Note:
 THIS PROJECT IS FULLY AUTOMATED
 
-## 🌟 〢 Give credits if ur using my list or at least leave a star if you like it 😊 ##
+## 🌟 〢 Give credits if ur using my list + leave a star if you want😊 ##
 
 
