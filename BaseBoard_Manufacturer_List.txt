@@ -32,3 +32,4 @@ Super Micro
 8K366XBBXR
 RMTXRVVBM1
 Fujitsu
+Biostar
