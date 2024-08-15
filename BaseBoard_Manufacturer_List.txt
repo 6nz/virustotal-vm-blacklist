@@ -37,3 +37,4 @@ Biostar
 OOE88H3MLC
 Gigabyte
 UHWAG9RDSN
+AMD
