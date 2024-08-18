@@ -42,3 +42,4 @@ AMD
 MSI
 TECX1SGMOB
 Hewlett-Packard
+RCS9KUXT1D
