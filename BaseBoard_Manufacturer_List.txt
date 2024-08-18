@@ -41,3 +41,4 @@ AMD
 1RAGZ3DDR2
 MSI
 TECX1SGMOB
+Hewlett-Packard
